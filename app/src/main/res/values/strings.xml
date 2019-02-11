@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HexOpCalci</string>
+    <string name="TV1">Enter the two numbers</string>
+    <string name="b1">ADD</string>
+    <string name="b2">SUB</string>
+    <string name="b3">MUL</string>
+    <string name="b4">DIV</string>
+    <string name="b5">LCM</string>
+    <string name="b6">HCF</string>
+</resources>
